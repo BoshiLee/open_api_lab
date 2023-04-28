@@ -1,0 +1,9 @@
+notebook
+openai
+pandas
+plotly
+matplotlib
+scikit-learn
+torchvision
+scipy
+tiktoken
